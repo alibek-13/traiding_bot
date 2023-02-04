@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "node-binance-api": "^0.13.1"
+  },
+  "name": "traiding_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "AlibaIzma"
+}
